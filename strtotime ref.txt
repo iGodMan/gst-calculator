@@ -1,0 +1,9 @@
+strtotime 
+
+d = date - 16
+Y = year - 1997
+M = month(short string) - Feb
+m = month(int) - 02
+F = month(full string) - february
+y = year short = 97
+D = day - Sun 
